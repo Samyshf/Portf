@@ -3,9 +3,10 @@
 </p>
 
 # Samantha Ferreira 
-<sub>*Em transição de carreira* 
-
-Apaixonada por estratégias, análises, negócios, e agora pela ciência de dados. =)
+<sub>
+Em transição de Carreira. 
+  
+Apaixonada por estratégias, análises, negócios, e agora pela ciência de dados. 
   
 Trabalho a mais de 15 anos com Marketing e Comunicação, e durante esses período tive a oportunidade de fazer a gestão estratégica de marcas e clientes dos mais diversos segmentos. 
 Sempre em busca de novos projetos, novos desafios, oportunidades de crescimento e de sempre fazer acontecer. 
