@@ -10,8 +10,8 @@ Trabalho a mais de 15 anos com Marketing e Comunicação, e durante esses perío
 Sempre em busca de novos projetos, novos desafios, oportunidades de crescimento e de sempre fazer acontecer.
 
 **Links:**
-* [LinkedIn](linkedin.com/in/samanthafhs)
-* [Medium](medium.com/@samantha.shf)
+* [LinkedIn](https://www.linkedin.com/in/samanthafhs/)
+* [Medium](https://medium.com/@samantha.shf)
 
 ## Projetos:
 Em desenvolvimento
