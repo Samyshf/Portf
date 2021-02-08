@@ -1353,7 +1353,7 @@
       "source": [
         "## Conclusões\n",
         "\n",
-        "Foi feita apenas uma análise superficial na base de dados do Airbnb em Chicago para uma versão resumida, sendo uma primeira análise exploratória e de conhecimento incial. Como recomendado, na próxima análise serão usados o conjunto de dados completos, com os 16 atributos disponíveis.\n"
+        "Essa é uma análise exploratória inicial com base nos dados específicos do [Inside Airbnb](http://insideairbnb.com/get-the-data.html) de Chicago, sendo uma primeira análise de conhecimento incial. Como recomendado, na próxima análise serão usados o conjunto de dados completos, com os 16 atributos disponíveis.\n"
       ]
     }
   ]
